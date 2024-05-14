@@ -1,3 +1,7 @@
+# Update: Airplane is dead now!
+No point in installing a CLI of a dead product in your dev container, so I'm gonna be archiving this project.
+
+
 # Dev Container Features: Self Authoring Template
 
 > This repo provides a starting point and example for creating your own custom [dev container Features](https://containers.dev/implementors/features/), hosted for free on GitHub Container Registry.  The example in this repository follows the [dev container Feature distribution specification](https://containers.dev/implementors/features-distribution/).  
